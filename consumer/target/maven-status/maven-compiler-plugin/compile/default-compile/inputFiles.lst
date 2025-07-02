@@ -1,0 +1,6 @@
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\config\DirectConfig.java
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\listener\SpringAmqp.java
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\ConsumerApplication.java
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\config\MessageConfig.java
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\config\FanoutConfig.java
+D:\Code\mq-demo\consumer\src\main\java\cn\itcast\mq\listener\SpringRabbitListener.java

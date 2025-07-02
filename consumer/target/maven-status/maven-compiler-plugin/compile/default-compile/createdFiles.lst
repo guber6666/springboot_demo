@@ -1,0 +1,6 @@
+cn\itcast\mq\ConsumerApplication.class
+cn\itcast\mq\config\DirectConfig.class
+cn\itcast\mq\config\MessageConfig.class
+cn\itcast\mq\listener\SpringAmqp.class
+cn\itcast\mq\config\FanoutConfig.class
+cn\itcast\mq\listener\SpringRabbitListener.class
